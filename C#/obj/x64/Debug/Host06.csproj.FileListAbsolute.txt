@@ -1,0 +1,4 @@
+C:\Users\shiraaz\Downloads\Music\Host Sample 06\C#\bin\x64\Debug\Host06.exe
+C:\Users\shiraaz\Downloads\Music\Host Sample 06\C#\bin\x64\Debug\Host06.pdb
+C:\Users\shiraaz\Downloads\Music\Host Sample 06\C#\obj\x64\Debug\Host06.exe
+C:\Users\shiraaz\Downloads\Music\Host Sample 06\C#\obj\x64\Debug\Host06.pdb
